@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Haveela Thokati - Automation Test Engineer and Violinist with a passion for music and faith in Christ.">
+    <title>Haveela Thokati | Automation Tester & Violinist</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; color: #333; line-height: 1.6; }
+        header { background: #2c3e50; color: #fff; padding: 20px; text-align: center; }
+        section { padding: 20px; max-width: 900px; margin: 20px auto; }
+        h1, h2, h3 { color: #2c3e50; }
+        a { color: #3498db; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        footer { text-align: center; padding: 20px; background: #2c3e50; color: #fff; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Haveela Thokati</h1>
+        <p>Automation Test Engineer | Violinist | Faith in Christ</p>
+    </header>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! I’m Haveela Thokati, an automation test engineer with a love for music and a deep faith in Christ. I’m passionate about creating reliable software solutions and finding joy in playing the violin.</p>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li>Automation Testing Framework for E-commerce Platforms</li>
+            <li>Chatbot Testing for Order Tracking and Damage Reporting</li>
+            <li>MTech Power Systems - Comparative Analysis of MPPT Modules for PMSM Drive Solar Water Pumping Systems</li>
+        </ul>
+    </section>
+    <section id="music">
+        <h2>My Music Journey</h2>
+        <p>When I’m not testing software, you’ll find me playing the violin and exploring new melodies. Music has been a guiding light in my life, filling each day with rhythm and harmony.</p>
+    </section>
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Let’s connect! Feel free to reach out via LinkedIn:</p>
+        <p><a href="https://www.linkedin.com/in/haveelathokati" target="_blank">LinkedIn Profile</a></p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Haveela Thokati. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
